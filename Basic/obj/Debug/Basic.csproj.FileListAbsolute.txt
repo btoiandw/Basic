@@ -6,3 +6,11 @@ D:\train\C#\Basic\Basic\obj\Debug\Basic.csproj.SuggestedBindingRedirects.cache
 D:\train\C#\Basic\Basic\obj\Debug\Basic.csproj.CoreCompileInputs.cache
 D:\train\C#\Basic\Basic\obj\Debug\Basic.exe
 D:\train\C#\Basic\Basic\obj\Debug\Basic.pdb
+C:\inetpub\wwwroot\train\C#\Basic\Basic\bin\Debug\Basic.exe.config
+C:\inetpub\wwwroot\train\C#\Basic\Basic\bin\Debug\Basic.exe
+C:\inetpub\wwwroot\train\C#\Basic\Basic\bin\Debug\Basic.pdb
+C:\inetpub\wwwroot\train\C#\Basic\Basic\obj\Debug\Basic.csproj.AssemblyReference.cache
+C:\inetpub\wwwroot\train\C#\Basic\Basic\obj\Debug\Basic.csproj.SuggestedBindingRedirects.cache
+C:\inetpub\wwwroot\train\C#\Basic\Basic\obj\Debug\Basic.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\train\C#\Basic\Basic\obj\Debug\Basic.exe
+C:\inetpub\wwwroot\train\C#\Basic\Basic\obj\Debug\Basic.pdb
