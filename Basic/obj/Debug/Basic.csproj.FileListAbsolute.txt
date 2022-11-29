@@ -1,0 +1,8 @@
+D:\train\C#\Basic\Basic\bin\Debug\Basic.exe.config
+D:\train\C#\Basic\Basic\bin\Debug\Basic.exe
+D:\train\C#\Basic\Basic\bin\Debug\Basic.pdb
+D:\train\C#\Basic\Basic\obj\Debug\Basic.csproj.AssemblyReference.cache
+D:\train\C#\Basic\Basic\obj\Debug\Basic.csproj.SuggestedBindingRedirects.cache
+D:\train\C#\Basic\Basic\obj\Debug\Basic.csproj.CoreCompileInputs.cache
+D:\train\C#\Basic\Basic\obj\Debug\Basic.exe
+D:\train\C#\Basic\Basic\obj\Debug\Basic.pdb
